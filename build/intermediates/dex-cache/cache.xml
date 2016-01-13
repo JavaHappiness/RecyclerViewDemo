@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Android\AndroidDemo\RecyclerViewDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="G:\Android\AndroidDemo\RecyclerViewDemo\app\build\intermediates\pre-dexed\debug\classes-e8dd79ea96f88b1f9715f0aff12ed30d35611a1f.jar" />
+    </item>
+    <item
+        jar="G:\Android\AndroidDemo\RecyclerViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="G:\Android\AndroidDemo\RecyclerViewDemo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-185b0e33c2c12c5c1bdfec3ea645d45223483e94.jar" />
+    </item>
+    <item
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="G:\Android\AndroidDemo\RecyclerViewDemo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-ef19fd8021d4fade96e8be49bb9ac46ae283f59a.jar" />
+    </item>
+    <item
+        jar="G:\Android\AndroidDemo\RecyclerViewDemo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="G:\Android\AndroidDemo\RecyclerViewDemo\app\build\intermediates\pre-dexed\debug\classes-bd8a22ebe1fb57fdc053b8ec858fffc12d105432.jar" />
+    </item>
+    <item
+        jar="G:\Android\AndroidDemo\RecyclerViewDemo\app\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="G:\Android\AndroidDemo\RecyclerViewDemo\app\build\intermediates\pre-dexed\debug\classes-9f43d376da7bde9439bc3a64bc01ffe25390718d.jar" />
+    </item>
+    <item
+        jar="G:\Android\AndroidDemo\RecyclerViewDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="G:\Android\AndroidDemo\RecyclerViewDemo\app\build\intermediates\pre-dexed\debug\classes-29f8016dedc1cecdfcd2f9f7848759b076eb4856.jar" />
+    </item>
+    <item
+        jar="G:\Android\AndroidDemo\RecyclerViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="G:\Android\AndroidDemo\RecyclerViewDemo\app\build\intermediates\pre-dexed\debug\classes-2992834604cfb5caad6129ed2dd784a382ec58f1.jar" />
+    </item>
+
+</items>
